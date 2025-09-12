@@ -8,5 +8,5 @@ and tuned for various uses.
 
 ## Titan Neo Server
 
-| [Linux 64-bit](https://github.com/southrivertech/titanneo.pub/blob/main/cloud-marketplace/linux-x64/gettingstarted.md) | [Windows 64-bit](https://github.com/southrivertech/titanneog.pub/blob/main/cloud-marketplace/win-x64/gettingstarted.md) |
+| [Linux 64-bit](https://github.com/southrivertech/titanneo.pub/blob/main/cloud-marketplace/linux-x64/gettingstarted.md) | [Windows 64-bit](https://github.com/southrivertech/titanneo.pub/blob/main/cloud-marketplace/win-x64/gettingstarted.md) |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
