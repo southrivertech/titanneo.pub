@@ -14,7 +14,7 @@ Titan Neo Server can be used with Titan SFTP or Titan MFT to provide AI capabili
 
 1. Launch your VM or instance and RDP into the Windows server with your chosen credentials (specified when creating the VM)
 2. Launch the Titan Neo Server Administrator UI by clicking on the desktop icon for the Titan Neo Server. The first time you run the Administrator it will prompt you to create a new Administrator account to allow configuring the Titan Neo Server.
-3. To configure the Titan Neo server click on the "Configuration" tab node under the "Local Admin Server" instance. From here you can select the AI providers you wish to use. Ollama comes pre-installed and is a local on premise solution without the need to send data to AI providers
+3. To configure the Titan Neo server click on the "Neo Configuration" tab node under the "Local Admin Server" instance. From here you can select the AI providers you wish to use. Ollama comes pre-installed and is a local on premise solution without the need to send data to AI providers however Ollama will be quite slow unless you run with a high powered GPU instance
 
 ## Remote Administration
 
