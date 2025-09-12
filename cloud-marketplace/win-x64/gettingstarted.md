@@ -18,7 +18,7 @@ Titan Neo Server can be used with Titan SFTP or Titan MFT to provide AI capabili
 
 ## Titan Neo Documentation
 
-[Neo User Guide](https://github.com/southrivertech/titanneo.pub/blob/main/cloud-marketplace/gettingstarted.pdf)
+[Neo Getting Started Guide](https://github.com/southrivertech/titanneo.pub/blob/main/cloud-marketplace/gettingstarted.pdf)
 
 ## Remote Administration
 
