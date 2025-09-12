@@ -19,10 +19,10 @@ Titan Neo Server can be used with Titan SFTP or Titan MFT to provide AI capabili
 sudo /opt/southriver/neoserver/aiserver /LASINIT /username=`<admin-username>` /password=`<admin-password>`
 ```
 
-[Titan Neo Getting Started Guide](https://github.com/southrivertech/titanneo.pub/blob/main/cloud-marketplace/gettingstarted.pdf)
+3) [Titan Neo Getting Started Guide](https://github.com/southrivertech/titanneo.pub/blob/main/cloud-marketplace/gettingstarted.pdf)
 
 
-3) Once the Titan Neo administrative credentials have been established you can now connect to the Titan Neo web-based admin console through your web-browser by pointing it to https://`<ipaddress>`:46443. Note that this is a secure connection. However, since Titan Neo is using a temporary certificate, you will see a security warning in the browser. Proceed past the security warning and log in to the Titan Neo Server Admin console. At this point you will be able to configure the Titan Neo application including adding your own TLS certificate. To import your own certificate click on "Manage Certificate" in the "Local Domain" section to import your certificate, then select this certificate from the list in the domain dialog (click on edit action).
+4) Once the Titan Neo administrative credentials have been established you can now connect to the Titan Neo web-based admin console through your web-browser by pointing it to https://`<ipaddress>`:46443. Note that this is a secure connection. However, since Titan Neo is using a temporary certificate, you will see a security warning in the browser. Proceed past the security warning and log in to the Titan Neo Server Admin console. At this point you will be able to configure the Titan Neo application including adding your own TLS certificate. To import your own certificate click on "Manage Certificate" in the "Local Domain" section to import your certificate, then select this certificate from the list in the domain dialog (click on edit action).
 
 ## Database and Files location
 
