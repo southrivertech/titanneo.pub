@@ -16,6 +16,10 @@ Titan Neo Server can be used with Titan SFTP or Titan MFT to provide AI capabili
 2. Launch the Titan Neo Server Administrator UI by clicking on the desktop icon for the Titan Neo Server. The first time you run the Administrator it will prompt you to create a new Administrator account to allow configuring the Titan Neo Server.
 3. To configure the Titan Neo server click on the "Neo Configuration" tab node under the "Local Admin Server" instance. From here you can select the AI providers you wish to use. Ollama comes pre-installed and is a local on premise solution without the need to send data to AI providers however Ollama will be quite slow unless you run with a high powered GPU instance
 
+## Titan Neo Documentation
+
+[Neo User Guide](https://github.com/southrivertech/titanneo.pub/blob/main/cloud-marketplace/gettingstarted.pdf)
+
 ## Remote Administration
 
 Titan Neo server can optionally be configured to remotely configure the server via web interface by enabling "Remote Administration". To enable remote administration click on "Home" node on the left of the admin control panel, then in the "Local Domain" section click on Edit action icon and turn on the option for "Enable Remote Admin". After enabling this you will need to restart the Titan Neo Service from Windows services. When using the default certficicate for remote administration the browser will complain about the certificate not being trusted, you can ignore this warning and select continue or confiure Titan SysLog server to use your own certificate to match your domain name. To import your own certificate click on "Manage Certificate" in the "Local Domain" section to import your certificate, then select this certificate from the list in the domain dialog (click on edit action).
